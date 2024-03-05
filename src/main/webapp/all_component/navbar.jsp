@@ -28,7 +28,7 @@
 
 
 					<a href="logout" class="btn btn-primary text-white"><i
-					class="fas fa-sign-in-alt"></i> Logout Successfully</a>
+					class="fas fa-sign-in-alt"></i> Logout</a>
 			</div>
 		</c:if>
 
